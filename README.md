@@ -9,7 +9,6 @@ A curated collection of Python algorithms, data structures, and code snippets to
 - [Algorithms Included](#algorithms-included)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
