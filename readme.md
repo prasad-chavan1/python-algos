@@ -9,6 +9,7 @@ A **stack** is a linear data structure that follows the Last-In-First-Out (LIFO)
 1. **Push:** Adds an element to the top of the stack.
 2. **Pop:** Removes and returns the top element from the stack.
 
+![Stack working](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221219100314/stack.drawio2.png)
 ### Stacks using Arrays
 
 One common way to implement a stack is by using arrays. This implementation provides a fixed-size stack and is relatively straightforward to implement. Here's a basic example of how to create a stack using arrays:
@@ -58,8 +59,10 @@ class StackUsingLinkedList:
 
 A queue is another linear data structure that follows the First-In-First-Out (FIFO) principle. It is commonly used for tasks like managing tasks in a printer queue or handling requests in web servers. The primary operations on a queue are:
 
-Enqueue: Adds an element to the back of the queue.
-Dequeue: Removes and returns the front element from the queue.
+Enqueue: Adds an element to the back of the queue. <br />
+Dequeue: Removes and returns the front element from the queue.<br />
+![Queue Working](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221213113312/Queue-Data-Structures.png)
+
 ## Queues using Linked List
 Implementing a queue using a linked list provides flexibility and dynamic memory allocation. Here's an example of how to create a queue using a linked list:
 ``` class Node:
