@@ -31,7 +31,7 @@ class StackUsingArray:
 ```
 ## Stacks using Linked List
 Another way to implement a stack is by using a linked list. This implementation allows for dynamic memory allocation and can handle an arbitrary number of elements. Here's an example of how to create a stack using a linked list:
-```
+```python
 class Node:
     def __init__(self, data):
         self.data = data
@@ -65,7 +65,8 @@ Dequeue: Removes and returns the front element from the queue.<br />
 
 ## Queues using Linked List
 Implementing a queue using a linked list provides flexibility and dynamic memory allocation. Here's an example of how to create a queue using a linked list:
-``` class Node:
+``` python
+class Node:
     def __init__(self, data):
         self.data = data
         self.next = None
