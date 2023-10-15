@@ -55,7 +55,7 @@ class BinarySearchTree:
       print(str(curr_node.data))
       self.printt(curr_node.right)
     
-  #If Intrested
+  #If Interested
   #code for remove
   
   def remove(self,data):
