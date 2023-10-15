@@ -96,4 +96,4 @@ class QueueUsingLinkedList:
     def is_empty(self):
         return self.front is None
 ```
-This detailed `README.md` provides information about stacks and queues.
+For more information on Stacks and Queues, click <a href= "https://www.geeksforgeeks.org/stack-and-queues-in-python/" > here </a>.

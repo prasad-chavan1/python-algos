@@ -1,7 +1,5 @@
 # Linked Lists in Python
 
-This README provides an overview of Linked Lists in Python, covering various aspects of linked lists, including Circular Linked Lists, Deletion of Singly Linked List, Insertion in Linked List, and Doubly Linked Lists.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Singly Linked List](#singly-linked-list)
@@ -12,6 +10,8 @@ This README provides an overview of Linked Lists in Python, covering various asp
 
 ## Introduction
 A linked list is a linear data structure that consists of a sequence of elements, where each element points to the next one, forming a chain-like structure. Linked lists are often used to implement dynamic data structures and are commonly used in various programming languages, including Python.
+
+![Linked List](https://media.geeksforgeeks.org/wp-content/uploads/20220816144425/LLdrawio.png)
 
 ## Singly Linked List
 A singly linked list is a type of linked list where each element, called a node, has a reference to the next node in the sequence. Here are some common operations and topics related to singly linked lists:
